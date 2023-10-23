@@ -1,1 +1,1 @@
-![image](https://github.com/warsngl/que/screenshot.png)
+![image](https://raw.githubusercontent.com/warsngl/que/master/screenshot.png)
